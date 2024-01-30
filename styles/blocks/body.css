@@ -1,0 +1,36 @@
+body {
+  background-image: url(https://yt3.googleusercontent.com/ytc/AGIKgqNJ6GeBpi-D2_4VHEQWx2G6GAiyjzu02tgz_Wsx=s900-c-k-c0x00ffffff-no-rj);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 50;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 18px;
+}
+
+h1, p {
+  text-align: center;
+}
+
+form {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  border-radius: 6px;
+  width: 80vw;
+  max-width: 500px;
+  min-width: 350px;
+  margin: 0 auto;
+  padding: 15px 15px 15px 15px;
+}
+
+fieldset {
+  border: none;
+  padding: auto;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}

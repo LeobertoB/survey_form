@@ -1,0 +1,31 @@
+input,
+select {
+  border-radius: 0px;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  margin: 0.1em 0 1em 0;
+  min-height: 2em;
+  font-size: 0.67em;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 50%;
+  margin: auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: grey;
+  border-color: grey;
+  min-width: 300px;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  min-height: unset;
+  vertical-align: middle;
+}
